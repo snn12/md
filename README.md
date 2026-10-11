@@ -4,6 +4,7 @@ Sessiyalar arasında yadda saxlamaq üçün.
 
 ## Fayllar
 - `1.md` — Bütün danışıqlar + öyrənmələr + üslub + xülasə
+- `2.md` — Trading bot + sayt sessiyası (taktikalar, sayt, araşdırmalar, treydlər)
 
 ## Yeni sessiya üçün prompt
 
