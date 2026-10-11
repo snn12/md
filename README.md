@@ -5,7 +5,7 @@ Sessiyalar arasında yadda saxlamaq üçün.
 ## Fayllar
 - `1.md` — Bütün danışıqlar + öyrənmələr + üslub + xülasə
 - `2.md` — Trading bot + sayt sessiyası (taktikalar, sayt, araşdırmalar, treydlər)
-- `n+1.md` — Aparatura Win7 sessiyası (exe analizi, dekompilyasiya, Qt5 port, 32-bit build)
+- `3.md` — Aparatura Win7 sessiyası (exe analizi, dekompilyasiya, Qt5 port, 32-bit build)
 
 ## Yeni sessiya üçün prompt
 
